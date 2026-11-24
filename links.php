@@ -13,7 +13,8 @@ $links_config = [
         'title' => '🗺️ Mapas y Ubicación',
         'links' => [
             ['icon' => '🏔️', 'text' => 'Mapa Topográfico', 'url' => 'https://es-es.topographic-map.com/map-3fzz4/Cantabria/?center=43.38259%2C-3.87405&zoom=11', 'desc' => 'Topografía de Cantabria'],
-            ['icon' => '📍', 'text' => 'SOTL.as', 'url' => 'https://sotl.as/mapa/', 'desc' => 'Mapa de estaciones de radioaficionados'],
+            ['icon' => '📍', 'text' => 'SOTL.as', 'url' => 'https://sotl.as/map', 'desc' => 'Mapa de estaciones de radioaficionados'],
+            ['icon' => '🌳', 'text' => 'POTA Map', 'url' => 'https://pota-map.fr/', 'desc' => 'Mapa de parques POTA (Parks On The Air)'],
         ]
     ],
     [
